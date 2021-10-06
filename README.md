@@ -7,8 +7,6 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeenunes&show_icons=true&theme=radical)
 
-[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeenunes&layout=compact)](https://gitlab.com/felipeenunes)
-
 
 ## 🖥️ Tecnologias que utilizo:
 
